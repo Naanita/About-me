@@ -1,6 +1,7 @@
 ## Hola!👋 Soy [Sebastián Grajales!](https://github.com/Naanita)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1ngrajales/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nanian.exe?igshid=NTE5MzUyOTU=)
+[![Gmail Badge](https://img.shields.io/badge/-Orange-Gmail)](mailto:sebastian.grajales15@gmail.com)
 
 #### También conocido como Naanita en Github!
 
